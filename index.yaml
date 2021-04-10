@@ -9,7 +9,7 @@ entries:
     name: examplenginx
     type: application
     urls:
-    - examplenginx-0.1.0.tgz
+    - https://mavrick202.github.io/examplenginx-0.1.0.tgz
     version: 0.1.0
   nginx2:
   - apiVersion: v2
@@ -20,7 +20,7 @@ entries:
     name: nginx2
     type: application
     urls:
-    - nginx2-0.1.0.tgz
+    - https://mavrick202.github.io/nginx2-0.1.0.tgz
     version: 0.1.0
   nginx3:
   - apiVersion: v2
@@ -31,6 +31,6 @@ entries:
     name: nginx3
     type: application
     urls:
-    - nginx3-0.1.0.tgz
+    - https://mavrick202.github.io/nginx3-0.1.0.tgz
     version: 0.1.0
 generated: "2021-04-10T05:47:23.455316051Z"
