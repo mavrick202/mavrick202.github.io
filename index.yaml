@@ -1,0 +1,36 @@
+apiVersion: v1
+entries:
+  examplenginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-04-10T05:47:23.456442723Z"
+    description: A Helm chart for Kubernetes
+    digest: c0c56e7af97cb5b16a525f02a0762a55ea7affedf841dfb0a50537522af195e0
+    name: examplenginx
+    type: application
+    urls:
+    - examplenginx-0.1.0.tgz
+    version: 0.1.0
+  nginx2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-04-10T05:47:23.457077581Z"
+    description: A Helm chart for Kubernetes
+    digest: 7601b803b5039833b2bafb7c6cb21013d12f2c06c5c1253622675808865a49e8
+    name: nginx2
+    type: application
+    urls:
+    - nginx2-0.1.0.tgz
+    version: 0.1.0
+  nginx3:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-04-10T05:47:23.457675736Z"
+    description: A Helm chart for Kubernetes
+    digest: 3fd3873de9f6b7b24a6c15adcf5f374bc4b6e5955246a20bfe2c71d517958478
+    name: nginx3
+    type: application
+    urls:
+    - nginx3-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-04-10T05:47:23.455316051Z"
